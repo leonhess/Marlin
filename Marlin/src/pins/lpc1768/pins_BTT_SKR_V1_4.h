@@ -328,7 +328,7 @@
     #define BEEPER_PIN               EXP1_08_PIN
 
   #elif ENABLED(ANET_FULL_GRAPHICS_LCD)
-    CONTROLLER_WARNING("BTT_SKR_V1_4", "ANET_FULL_GRAPHICS_LCD")
+   // CONTROLLER_WARNING("BTT_SKR_V1_4", "ANET_FULL_GRAPHICS_LCD")
 
    /**
     * 1. Cut the tab off the LCD connector so it can be plugged into the "EXP1" connector the other way.
